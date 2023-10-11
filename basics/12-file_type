@@ -1,2 +1,2 @@
 #!/bin/bash
-iamfile = cat /tmp/iamafile
+file /tmp/iamafile
