@@ -1,1 +1,1 @@
-#!/bin/bash
+Enseñar la ruta actual|
