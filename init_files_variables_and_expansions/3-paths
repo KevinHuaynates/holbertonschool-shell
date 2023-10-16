@@ -1,2 +1,2 @@
 #!/bin/bash
-find RUTA -type d | wc -l
+find PATH -type d | wc -l
